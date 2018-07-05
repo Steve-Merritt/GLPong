@@ -78,3 +78,6 @@ DerivedDataCache/*
 
 # Starter Content
 Content/StarterContent/*
+
+# Local Assets
+LocalAssets/*
